@@ -1,4 +1,4 @@
-package com.dongduong.spring.security.oauth2.server;
+package com.dongduong.spring.security.oauth2.config;
 
 import java.io.IOException;
 
